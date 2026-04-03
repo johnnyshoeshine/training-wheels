@@ -1,5 +1,5 @@
 ---
-name: prompt-aware-researcher
+name: training-wheels-prompt-aware-researcher
 description: Use when you need to extract specific information from one or more URLs using the web_fetch tool. This skill ensures surgical, token-efficient extraction by crafting precise prompts.
 ---
 

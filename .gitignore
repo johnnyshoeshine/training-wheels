@@ -1,3 +1,6 @@
 # Ignore the original downloaded source and extracted files
 claw-code-main.zip
 claw-code-extracted/
+
+# Local Gemini config
+.gemini/

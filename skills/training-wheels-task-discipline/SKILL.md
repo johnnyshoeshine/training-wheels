@@ -1,5 +1,5 @@
 ---
-name: task-discipline
+name: training-wheels-task-discipline
 description: Use when you are managing a complex task or project with multiple sub-tasks. This skill ensures your task list is always current and that every completed step is verified.
 ---
 

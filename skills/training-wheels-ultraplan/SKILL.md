@@ -1,5 +1,5 @@
 ---
-name: ultraplan
+name: training-wheels-ultraplan
 description: Use when you need to create a comprehensive, multi-step execution plan for a complex task. This skill ensures deep reasoning, risk assessment, and clear project boundaries.
 ---
 

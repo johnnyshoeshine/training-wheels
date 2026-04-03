@@ -1,5 +1,5 @@
 ---
-name: project-onboarding
+name: training-wheels-project-onboarding
 description: Use when you are starting work in a new repository or a new domain within a project. This skill ensures you build a complete mental map of the project in minutes.
 ---
 

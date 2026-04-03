@@ -1,5 +1,5 @@
 ---
-name: agent-personas
+name: training-wheels-agent-personas
 description: Use when you are dispatching a generalist sub-agent to perform a specific task. This skill ensures the sub-agent is given a clear role and set of constraints.
 ---
 

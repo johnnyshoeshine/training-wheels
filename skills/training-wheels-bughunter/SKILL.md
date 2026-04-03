@@ -1,5 +1,5 @@
 ---
-name: bughunter
+name: training-wheels-bughunter
 description: Use when you need to perform a systematic audit of a codebase or specific files to identify bugs, correctness issues, or security vulnerabilities.
 ---
 
