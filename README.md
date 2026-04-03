@@ -1,6 +1,6 @@
 # training-wheels-claudia
 
-A personalized Gemini CLI harness containing specialized skills and engineering standards.
+A personalized Gemini CLI harness containing specialized skills and engineering standards. This is for gemini as it is what i use (goddam google got me by the precious memories...), i'm sure they will work as guardrails or whatnot for OSS stuff - as others are trying out haha 
 
 ## Purpose
 This repository serves as a localized set of "training wheels" for Gemini CLI. It includes specialized skills for planning, research, auditing, and task discipline, as well as a defined set of engineering rules (`gemini.md`).
